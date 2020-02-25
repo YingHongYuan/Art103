@@ -1,0 +1,37 @@
+body {
+  background-image: url("o.jpg");
+  max-width: 1300px;
+  margin: 50px auto 50px auto;
+  color: #black;
+  background-color: White;
+  text-align: center;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+}
+
+.heading {
+  padding: 20px auto;
+  margin: 60px;
+  text-align: center;
+  background-color:white;
+
+}
+
+.shadow {
+  box-shadow: 10px, 10px, 10px, grey;
+}
+
+.button {
+  color: black;
+  border: none;
+  color: white;
+  padding: 30px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+© 2020 GitHub, Inc.
