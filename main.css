@@ -34,7 +34,31 @@ h1 {
   display: inline-block;
   font-size: 30px;
 }
-© 2020 GitHub, Inc.
+
+.reading1{
+  border: 10px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.reading2{
+  border: 10px solid black;
+  background-color: lightpink;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.reading3{
+  border: 10px solid black;
+  background-color: lightyellow;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 
 /* footer */
 #fh5co-footer {
