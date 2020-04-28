@@ -34,7 +34,14 @@ h1 {
   display: inline-block;
   font-size: 30px;
 }
-
+.inroduction{
+  border: 2px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 .reading1{
   border: 10px solid black;
   background-color: lightblue;
